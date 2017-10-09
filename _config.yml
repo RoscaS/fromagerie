@@ -4,7 +4,9 @@ subtitle:
 email: info@fromageriesa.ch
 description: ""
 baseurl: "/fromagerie" # site's subpath, e.g. /blog
+# baseurl: "/fromagerie" # local tests
 url: "https://roscas.github.io/fromagerie" # site's base hostname & protocol 
+# url: "127.0.0.1:4000/fromagerie" # local tests
 author:
 street_address: Le Saucy 24a
 city: Les Reussilles
